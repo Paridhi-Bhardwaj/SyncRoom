@@ -1,4 +1,4 @@
-# ChatConnect
+# SyncRoom
 ![](chatroom.gif) </br>
 ChatConnect is a full-stack, real-time chat application designed for instant and private communication. It allows users to sign up, log in, create chatrooms, and engage in live conversations with others. The project features a modern, responsive frontend built with React and Tailwind CSS, and a robust backend powered by Node.js, Express, and Prisma with a PostgreSQL database. Real-time functionality is handled seamlessly with Socket.io.
 
